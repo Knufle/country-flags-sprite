@@ -20,7 +20,6 @@ window.onload = () => {
     countriesSelectFreak = document.getElementById('countries-freak');
     countriesSelectFreak.appendChild(countryOption);
   });
-  countriesSelectFreak.value("BR")
 };
 
 function setCountryFlag(event) {
